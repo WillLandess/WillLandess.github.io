@@ -1,6 +1,8 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
+  font-style: italic;
+  font-size: 40px;
   border-color: red;
   background-image: url(linedpaper.png);
   background-repeat: repeat;
