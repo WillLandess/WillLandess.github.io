@@ -5,10 +5,12 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="http://use.fontawesome.com/f9001c39ac.js"></script>
 </head>
 <body>
 
@@ -23,7 +25,10 @@
           <span class="icon-bar"></span>
         </button>
         <!--Create home icon to lead you back home from any page-->
-        <a class="navbar-brand" href="index.html">Home</a>
+        <a class="navbar-brand" href="index.html">
+          <i class="fa fa-home" aria-hidden="true"></i>
+          Home
+        </a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
@@ -43,7 +48,7 @@
     <div class="jumbotron">
       <div class="row">
         <div class="col-md-4">
-          <p><img src="Will Landess Kellogg Picture.jpg" class="img-responsive"></p>
+          <p><img id="KelloggPic" src="Will Landess Kellogg Picture.jpg" class="img-responsive"></p>
         </div>
         <div class="col-md-8">
           <h1 class="text-center">Will Landess</h1>
