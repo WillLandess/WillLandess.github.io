@@ -1,23 +1,23 @@
 .jumbotron {
-/*background-image: url("Will Landess Kellogg Picture.jpg");
-background-repeat: no-repeat;
-background-size: auto 100%;
-background-position: left center;*/
-color: black;
-text-align: center;
-font-family: 'Merriweather', serif;
+  /*background-image: url("Will Landess Kellogg Picture.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: left center;*/
+  color: black;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: navy;
-    border-color: navy;
+  color: #fff;
+  background-color: navy;
+  border-color: navy;
 }
 
 .btn-success {
-    color: #fff;
-    background-color: red;
-    border-color: red;
+  color: #fff;
+  background-color: red;
+  border-color: red;
 }
 
 #BainText {
