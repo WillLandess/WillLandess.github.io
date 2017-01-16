@@ -1,0 +1,11 @@
+.jumbotron{
+background-image: url("galaxy.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
