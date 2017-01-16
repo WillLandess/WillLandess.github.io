@@ -1,4 +1,4 @@
-.jumbotron{
+.jumbotron {
 /*background-image: url("Will Landess Kellogg Picture.jpg");
 background-repeat: no-repeat;
 background-size: auto 100%;
@@ -14,4 +14,24 @@ font-family: 'Merriweather', serif;
     border-color: navy;
 }
 
-/*change color of buttons from green to something else*/
+#BainText {
+  color: red;
+  font-weight: bold;
+  font-family: arial;
+}
+
+#MLBText {
+  color: navy;
+  font-weight: bold;
+  font-family: arial;
+}
+
+h4 {
+font-family: 'Montserrat', sans-serif;
+color: black;
+font-weight: bold;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
