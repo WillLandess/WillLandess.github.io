@@ -1,7 +1,10 @@
 .jumbotron{
-background-image: url("galaxy.jpg");
+background-image: url("Will Landess Kellogg Picture.jpg");
 background-repeat: no-repeat;
-background-size: cover;
+background-size: auto 100%;
+background-position: left center;
+color: black;
+text-align: center;
 }
 
 .btn-primary {
